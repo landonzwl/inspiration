@@ -1,0 +1,15 @@
+id: C-20261106-001
+version: 1
+status: active
+domain: [个人系统, 方法论]
+subject: 灵感收集器数据分层
+assertion: 数据必须分为 L0 原始、L1 Claim、L2 成品三层，且 L0 只追加不改写
+scope: 适用于本仓库本地思想流水线
+exclusions: 不适用于把成品草稿直接覆盖原始事件的用法
+depends_on: []
+confidence: high
+open_questions: []
+sources: [R-20261106-001]
+created_at: 2026-11-06T14:52:00+08:00
+updated_at: 2026-11-06T14:52:00+08:00
+supersedes: null

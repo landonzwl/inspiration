@@ -1,0 +1,9 @@
+data/write.lock
+data/e2e_ids.txt
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
+.DS_Store
+Thumbs.db
